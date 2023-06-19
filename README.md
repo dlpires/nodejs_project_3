@@ -1,6 +1,6 @@
 # NodeJS - Terceiro Projeto - Conversor de Excel para HTML e PDF
 
-** Porjeto NodeJS usando POO (Programação Orientada a Objetos)**
+**Projeto NodeJS usando POO (Programação Orientada a Objetos)**
 
 **Para este projeto, faça o download e a instalação do [NodeJS](https://nodejs.org/en/download).**
 
